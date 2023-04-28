@@ -2,7 +2,9 @@ import React from 'react'
 
 function Evolution() {
   return (
-    <div>Evolution</div>
+    <div className='construction'>
+      Under construction
+    </div>
   )
 }
 

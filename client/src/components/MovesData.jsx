@@ -2,7 +2,9 @@ import React from 'react'
 
 function MovesData() {
   return (
-    <div>MovesData</div>
+    <div className='construction'>
+      Under construction
+    </div>
   )
 }
 
